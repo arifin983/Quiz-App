@@ -1,0 +1,332 @@
+[
+    [
+        {
+            "question": "Which country has the longest coastline in the world?",
+            "answers": [
+                "Canada", 
+                "Russia",
+                "Australis",
+                "Indonesia"
+            ],
+            "correctAnswer":"Canada"  
+        },
+        {
+            "question": "What is the world's most populated country?",
+            "answers": [
+                "USA", 
+                "China",
+                "Pakistan",
+                "India"
+            ],
+            "correctAnswer":"China" 
+        },
+        {
+            "question": "In which country is the world's highest waterfall?",
+            "answers": [
+                "USA", 
+                "Brazil",
+                "Venezuela",
+                "Canada"
+            ],
+            "correctAnswer":"Venezuela"   
+        }
+    ],
+    [
+        {
+            "question": "What is the most abundant gas in the Earth's atmosphere?",
+            "answers": [
+                "Carbon dioxide", 
+                "Helium",
+                "Nitrogen",
+                "Oxygen"
+            ],
+            "correctAnswer":"Nitrogen"
+        },
+        {
+            "question": "Who was the first man to reach the South Pole?",
+            "answers": [
+                "Tom Creen", 
+                "Robert Falcon Scott",
+                "Edmund Hillary",
+                "Roald Amundsen"      
+            ],
+            "correctAnswer":"Roald Amundsen"
+        },
+        {
+            "question": "What type of rock is marble?",
+            "answers": [
+                "Sedimentary", 
+                "Granite",
+                "Igneous",
+                "Metamorphic"
+            ],
+            "correctAnswer":"Metamorphic"
+            
+        }
+    ],
+    [
+        {
+            "question": "In which country would you find Mecca?",
+            "answers": [
+                "Syria", 
+                "Abu Dhabi",
+                "Saudi Arabia",
+                "Iraq"
+            ],
+            "correctAnswer":"Saudi Arabia"   
+        },
+        {
+            "question": "The word “ananas” means what, in almost every other major language apart from English?",
+            "answers": [
+                "Dog", 
+                "Antartic",
+                "Banana",
+                "Pineapple" 
+            ],
+            "correctAnswer":"Pineapple"
+        },
+        {
+            "question": "In what year did the Chernobyl nuclear disaster occur?",
+            "answers": [
+                "1986", 
+                "1978",
+                "1990",
+                "1980"  
+            ],
+            "correctAnswer":"1986" 
+        }
+    ],
+    [
+        {
+            "question": "What is the largest island in the Mediterranean Sea?",
+            "answers": [
+                "Sicily", 
+                "Monaco",
+                "Sardinia",
+                "Corsica"
+            ],
+            "correctAnswer":"Sicily"
+            
+        },
+        {
+            "question": "Which is the fastest bird in the world?",
+            "answers": [
+                "Bald Eagle", 
+                "Peregrine Falcon",
+                "Hummingbird",
+                "Raven"  
+            ],
+            "correctAnswer":"Peregrine Falcon"
+        },
+        {
+            "question": "Which of these foods will never spoil?",
+            "answers": [
+                "Honey",
+                "Beef Jerky",
+                "Cereal",
+                "Beans"
+            ],
+            "correctAnswer":"Honey"     
+        }
+    ],
+    [
+        {
+            "question": "Which is the longest river in the world?",
+            "answers": [
+                "Mississippi", 
+                "Nile",
+                "Amazon",
+                "Yangtze"
+            ],
+            "correctAnswer":"Nile"
+            
+        },
+        {
+            "question": "What is the largest continent in size?",
+            "answers": [
+                "Asia", 
+                "Africa",
+                "Europe",
+                "North America"  
+            ],
+            "correctAnswer":"Asia"
+        },
+        {
+            "question": "Which famous inventor invented the telephone?",
+            "answers": [
+                "Thomas Edison",
+                "Benjamin Franklin",
+                "Alexander Graham Bell",
+                "Nikola Tesla"
+            ],
+            "correctAnswer":"Alexander Graham Bell"     
+        }
+    ],
+    [
+        {
+            "question": "What does the Richter scale measure?",
+            "answers": [
+                "Wind Speed", 
+                "Temperature",
+                "Tornado Strength",
+                "Earthquake intensity"
+            ],
+            "correctAnswer":"Earthquake intensity"
+            
+        },
+        {
+            "question": "Which country is the footballer Cristiano Ronaldo from?",
+            "answers": [
+                "Spain", 
+                "Brazil",
+                "Uruguay",
+                "Portugal"  
+            ],
+            "correctAnswer":"Portugal"
+        },
+        {
+            "question": "How many sides has a Hexagon?",
+            "answers": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "correctAnswer":"6"     
+        }
+    ],
+    [
+        {
+            "question": "What is the capital of Iraq?",
+            "answers": [
+                "Baghdad", 
+                "Islamabad",
+                "Tehran",
+                "Amman"
+            ],
+            "correctAnswer":"Baghdad"
+            
+        },
+        {
+            "question": "How many bones are there in an adult human body?",
+            "answers": [
+                "186", 
+                "206",
+                "286",
+                "306"  
+            ],
+            "correctAnswer":"206"
+        },
+        {
+            "question": "Which Nobel Prize did Winston Churchill win?",
+            "answers": [
+                "Literature",
+                "Chemistry",
+                "Physics",
+                "peace"
+            ],
+            "correctAnswer":"Literature"     
+        }
+    ],
+    [
+        {
+            "question": "Which chemical element has Ag as a symbol?",
+            "answers": [
+                "Gold", 
+                "Silver",
+                "Iron",
+                "Carbon"
+            ],
+            "correctAnswer":"Silver"
+            
+        },
+        {
+            "question": "Which of the following is the largest city?",
+            "answers": [
+                "Tokyo", 
+                "New York City",
+                "London",
+                "Rome"  
+            ],
+            "correctAnswer":"Tokyo"
+        },
+        {
+            "question": "What is the name of the smallest bone in human body?",
+            "answers": [
+                "Stapes",
+                "Maxilla",
+                "Ulna",
+                "Mandible"
+            ],
+            "correctAnswer":"Stapes"     
+        }
+    ],
+    [
+        {
+            "question": "What was the first planet discovered with the use of a telescope?",
+            "answers": [
+                "Jupiter", 
+                "Pluto",
+                "Saturn",
+                "Uranus"
+            ],
+            "correctAnswer":"Uranus"
+            
+        },
+        {
+            "question": "How long does it take light to travel from the Sun to the Earth?",
+            "answers": [
+                "It's instantaneous", 
+                "About 8 minutes",
+                "About 11 days",
+                "2 or 3 month,depending on the time of year "  
+            ],
+            "correctAnswer":"About 8 minutes"
+        },
+        {
+            "question": "Who was the first man to step on the moon?",
+            "answers": [
+                "John Glenn",
+                "Buzz Aldrin",
+                "Neil Armstrong",
+                "Yuri Gagarin"
+            ],
+            "correctAnswer":"Neil Armstrong"     
+        }
+    ],
+    [
+        {
+            "question": "What is the pH value of the human body?",
+            "answers": [
+                "9.2 to 9.8", 
+                "7.0 to 7.8",
+                "6.1 to 6.3",
+                "5.4 to 5.6"
+            ],
+            "correctAnswer":"7.0 to 7.8"
+            
+        },
+        {
+            "question": "In computer science and information technology (IT), DNS is an abbreviation of ",
+            "answers": [
+                "Direct Name System", 
+                "Domain Name System",
+                "Direct Name Software",
+                "Domain Name Software"  
+            ],
+            "correctAnswer":"Domain Name System"
+        },
+        {
+            "question": "Internet uses _____ to communicate between devices and networks.",
+            "answers": [
+                "HTTPS",
+                "Email",
+                "Website",
+                "Internet protocol suite"
+            ],
+            "correctAnswer":"Internet protocol suite"     
+        }
+    ]
+  
+    
+]
